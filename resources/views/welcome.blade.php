@@ -222,25 +222,36 @@
 
         <div class="form__container">
             <div class="wrapper">
-                <form action="" class="form__wrapper" method="post" >
+                <form action="{{ url('/contact') }}" class="form__wrapper" method="POST" enctype="multipart/form-data">
+                    {{ csrf_field() }}
                     <p class="form__wrapper_title" id="contacts">Оставьте заявку</p>
                     <p class="form__wrapper_sub_title">на обратный звонок</p>
 
+                    @if(Session::has('success'))
+                        <div class="alert alert-success">
+                            {{ Session::get('success') }}
+                        </div>
+                    @elseif (Session::has('error'))
+                        <div class="alert alert-error">
+                            {{ Session::get('error') }}
+                        </div>
+                    @endif
+
                     <label class="form__wrapper_line" for="name">
-                        <input class="input" type="text" id="name" name="name">
+                        <input class="input" type="text" id="name" name="name" required>
                         <span>Ваше имя</span>
                     </label>
 
                     <label class="form__wrapper_line" for="phone">
-                        <input class="input" type="text" id="phone" name="phone">
+                        <input class="input" type="text" id="phone" name="phone" required>
                         <span>Ваш телефон</span>
                     </label>
 
-                    <label class="form__wrapper_line" for="message">
-                        <textarea class="textarea" name="message" id="message"></textarea>
+                    <label class="form__wrapper_line" for="body">
+                        <textarea class="textarea" name="body" id="body"></textarea>
                         <span>Ваше сообщение</span>
                     </label>
-                    <button class="link">отправить заявку</button>
+                    <button type="submit" class="link">отправить заявку</button>
                 </form>
             </div>
         </div>

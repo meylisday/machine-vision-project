@@ -920,3 +920,16 @@ footer.default {
     }
 
 }
+
+.alert-success{
+    margin: 0 auto;
+    font-size: 18px;
+    background-color: #d3ffd4;
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+    margin-bottom: 2em;
+}
+.alert-error{
+    background-color: #d3ffd4;
+}
