@@ -1,1 +1,0 @@
-# tekkaee-machine-vision
