@@ -147,7 +147,7 @@
                         <p class="catalog__item_number">01</p>
                         <p class="catalog__item_title">Лазерные сканеры AN-x2TL</p>
                         <p class="catalog__item_desc">Лазерные сканеры предназначены для бесконтактного измерения и сканирования профиля поверхности, положения, смещения, размеров, порядка сортировки, трехмерного сканирования, высокоточного измерения геометрических параметров и положения объекта.</p>
-                        <a href="#" class="link__primary"><i class="icon-download-alt"></i>Характеристики</a>
+                        <a href="/images/documents/page-7.pdf" class="link__primary" target="_blank"><i class="icon-download-alt"></i>Характеристики</a>
                     </div>
                     <div class="catalog__item_img">
                         <img class="img__lazy" data-src="/images/catalog/1.png" alt="1.png">
@@ -172,7 +172,7 @@
                         <p class="catalog__item_number">03</p>
                         <p class="catalog__item_title">Триангуляционный дальномер АН-11ТЛ</p>
                         <p class="catalog__item_desc">Триангуляционный дальномер АН-11ТЛ предназначен для высокоточного бесконтактного измерения расстояния до объекта, определения смещения относительно измерителя, измерения минимального и максимального расстояния, определения геометрии поверхности.</p>
-                        <a href="#" class="link__primary"><i class="icon-download-alt"></i>Характеристики</a>
+                        <a href="/images/documents/page-4.pdf" class="link__primary" target="_blank"><i class="icon-download-alt"></i>Характеристики</a>
                     </div>
                     <div class="catalog__item_img">
                         <img class="img__lazy" data-src="/images/catalog/3.png" alt="1.png">
@@ -185,7 +185,7 @@
                         <p class="catalog__item_title">Лазерные модули</p>
                         <p class="catalog__item_desc">Лазерные модули представляют собой оптоэлектронные устройства на основе полупроводниковых лазерных
                             диодов. Области применения: наука, медицина, геодезия,  строительство, деревообработка, металлообработка, робототехника, спектроскопия, печать с высоким разрешением, машинное зрение и другие.</p>
-                        <a href="#" class="link__primary"><i class="icon-download-alt"></i>Характеристики</a>
+                        <a href="/images/documents/page-8.pdf" class="link__primary" target="_blank"><i class="icon-download-alt"></i>Характеристики</a>
                     </div>
                     <div class="catalog__item_img">
                         <img class="img__lazy" data-src="/images/catalog/4.png" alt="1.png">
@@ -197,7 +197,7 @@
                         <p class="catalog__item_number">05</p>
                         <p class="catalog__item_title">Оптический микрометр АН-21СМ</p>
                         <p class="catalog__item_desc">Оптический микрометр АН-21СМ позволяет измерять геометрические параметры и положение объекта в высокоточном режиме, измерять зазоры, положение, геометрические размеры в поперечном сечении и средний диаметр объекта, контролировать и устранять неисправности готовых деталей.</p>
-                        <a href="#" class="link__primary"><i class="icon-download-alt"></i>Характеристики</a>
+                        <a href="/images/documents/page-5.pdf" class="link__primary" target="_blank"><i class="icon-download-alt"></i>Характеристики</a>
                     </div>
                     <div class="catalog__item_img">
                         <img class="img__lazy" data-src="/images/catalog/5.png" alt="1.png">
@@ -209,7 +209,7 @@
                         <p class="catalog__item_number">06</p>
                         <p class="catalog__item_title">Сканер внутренних диаметров труб, наконечников, отверстий АН-31RTL</p>
                         <p class="catalog__item_desc">Сканер АН-31РТЛ предназначен для бесконтактного измерения внутренней поверхности и внутреннего диаметра валов, цилиндрических и конических труб, отверстий. Сканер также позволяет находить дефекты поверхности, реконструировать профиль сечения, создавать трехмерную модель объекта.</p>
-                        <a href="#" class="link__primary"><i class="icon-download-alt"></i>Характеристики</a>
+                        <a href="/images/documents/page-6.pdf" class="link__primary" target="_blank"><i class="icon-download-alt"></i>Характеристики</a>
                     </div>
                     <div class="catalog__item_img">
                         <img class="img__lazy" data-src="/images/catalog/6.png" alt="1.png">
