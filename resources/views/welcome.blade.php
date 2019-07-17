@@ -61,7 +61,7 @@
                     </div>
                     <div class="slide__content_right">
                         <p class="slide__content_desc">Оптоэлектронные приборы для точного измерения геометрических параметров, применяемые с целью автоматизации в промышленной сфере </p>
-                        <a href="#" class="link">заказать звонок</a>
+                        <a href="#contacts" class="link">заказать звонок</a>
                     </div>
                 </div>
 
@@ -81,7 +81,7 @@
                     </div>
                     <div class="slide__content_right">
                         <p class="slide__content_desc">Оптоэлектронные приборы для точного измерения геометрических параметров, применяемые с целью автоматизации в промышленной сфере </p>
-                        <a href="#" class="link">заказать звонок</a>
+                        <a href="#contacts" class="link">заказать звонок</a>
                     </div>
                 </div>
 
@@ -101,7 +101,7 @@
                     </div>
                     <div class="slide__content_right">
                         <p class="slide__content_desc">Оптоэлектронные приборы для точного измерения геометрических параметров, применяемые с целью автоматизации в промышленной сфере </p>
-                        <a href="#" class="link">заказать звонок</a>
+                        <a href="#contacts" class="link">заказать звонок</a>
                     </div>
                 </div>
 
@@ -120,7 +120,7 @@
                     </div>
                     <div class="slide__content_right">
                         <p class="slide__content_desc">Оптоэлектронные приборы для точного измерения геометрических параметров, применяемые с целью автоматизации в промышленной сфере </p>
-                        <a href="#" class="link">заказать звонок</a>
+                        <a href="#contacts" class="link">заказать звонок</a>
                     </div>
                 </div>
 
